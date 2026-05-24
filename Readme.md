@@ -7,7 +7,7 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 # 🚀 Live Demo
 
 🔗 Streamlit App:  
-https://your-streamlit-app-link.streamlit.app
+https://telecomcustomerchurnprediction-12.streamlit.app/
 
 ---
 
@@ -138,7 +138,7 @@ telecom-customer-churn-prediction/
 ├── README.md
 └── Telecom_Customer_Churn_Prediction.ipynb
 ▶️ Run Locally
-Clone Repository
+## Clone Repository
 git clone https://github.com/your-username/telecom-customer-churn-prediction.git
 Move into Project Folder
 cd telecom-customer-churn-prediction
